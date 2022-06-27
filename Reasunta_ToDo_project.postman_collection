@@ -1,0 +1,220 @@
+{
+	"info": {
+		"_postman_id": "f9ad3735-8594-46a8-9666-afa295d96f6f",
+		"name": "Reasunta ToDo project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3698906"
+	},
+	"item": [
+		{
+			"name": "task all",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/task/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"task",
+						"all"
+					]
+				},
+				"description": "Getting all tasks in ToDo app"
+			},
+			"response": []
+		},
+		{
+			"name": "task get one",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/task/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"task",
+						"all"
+					]
+				},
+				"description": "Getting all tasks in ToDo app"
+			},
+			"response": []
+		},
+		{
+			"name": "task create",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/task/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"task",
+						"all"
+					]
+				},
+				"description": "Getting all tasks in ToDo app"
+			},
+			"response": []
+		},
+		{
+			"name": "task update",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/task/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"task",
+						"all"
+					]
+				},
+				"description": "Getting all tasks in ToDo app"
+			},
+			"response": []
+		},
+		{
+			"name": "task delete",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/task/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"task",
+						"all"
+					]
+				},
+				"description": "Getting all tasks in ToDo app"
+			},
+			"response": []
+		},
+		{
+			"name": "task get by title",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/task/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"task",
+						"all"
+					]
+				},
+				"description": "Getting all tasks in ToDo app"
+			},
+			"response": []
+		},
+		{
+			"name": "task between dates",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/task/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"task",
+						"all"
+					]
+				},
+				"description": "Getting all tasks in ToDo app"
+			},
+			"response": []
+		},
+		{
+			"name": "task by date",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/task/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"task",
+						"all"
+					]
+				},
+				"description": "Getting all tasks in ToDo app"
+			},
+			"response": []
+		},
+		{
+			"name": "task overdue",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/task/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"task",
+						"all"
+					]
+				},
+				"description": "Getting all tasks in ToDo app"
+			},
+			"response": []
+		},
+		{
+			"name": "task without date",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/task/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"task",
+						"all"
+					]
+				},
+				"description": "Getting all tasks in ToDo app"
+			},
+			"response": []
+		}
+	]
+}

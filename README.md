@@ -26,6 +26,9 @@ HttpMethod.PUT
 HttpMethod.DELETE
 * delete task [/task/{id}]
 
+### Postman requests collection
+Reasunta_ToDo_project.postman_collection
+
 
 ### Task details
 
